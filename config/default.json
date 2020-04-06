@@ -1,0 +1,10 @@
+{
+    "app": {
+        "port": 3000
+    },
+    "zoop_test": {
+        "token": "TEST-4593572314443913-040415-c7bd75e11a9306420dad7b6fe2e463a2-4980966",
+        "seller_id": "bf05632bf8b5427c808c19b5e80ce896"
+
+    }
+}
